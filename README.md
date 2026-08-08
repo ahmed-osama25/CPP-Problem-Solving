@@ -1,4 +1,4 @@
-# CPP-Problem-Solving
+# C++-Problem-Solving
 # HackerRank C++ Practice
 
 <p align="center">
