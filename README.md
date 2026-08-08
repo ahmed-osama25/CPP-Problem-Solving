@@ -23,4 +23,7 @@ This repository contains my C++ solutions and practice exercises from HackerRank
   <img src="https://img.shields.io/badge/STL-C%2B%2B-yellow?style=flat-square" />
 </p>
 
-## 📂 Structure
+
+## 🎯 Goal
+
+Improve my C++ programming skills and strengthen my problem solving abilities through consistent practice.
